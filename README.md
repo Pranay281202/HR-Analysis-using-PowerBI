@@ -5,14 +5,13 @@ This project aims to develop interactive and insightful dashboards using Power B
 The dashboards will focus on key performance of emp working time, providing a visual representation of presence of emp, work from home, and many more imp things are covered.
 
 3. Problem Statement:
-Background: An evaluation is required to identify shortcomings and recommend improvements to the performance management process.
+Background: Evaluation is required to identify shortcomings and recommend improvements to the performance management process.
    
 Objective: Develop dashboards to monitor and analyze key performance indicators.
 with respect too "Key points" 
 Present, Paid Leave, Sick Leave, Half day PL, Half day SL, Work from home, Floting festival leave, Half Day Floting festival leave , Birthday Leave, Leave without pay , Half day Leave without pay, Bereavement Leave, Half Bereavement Leave, Half Work From Home, Weekly Off, Holiday Off.
 
-Scope:To get a specific time when the most of emp are present.
-	Find Sick leave taken by emp to take pricotion and to make helpful decision.
+Scope:To get a specific time when the most of emp are present. Find Sick leave taken by emp to take pricotion and to make helpful decision.
 
 3. Data Sources:
 	A Real dataset of employee presence from a company called AtliQ.
@@ -32,8 +31,8 @@ Interactivity: Include interactive elements for comparative analysis, allowing u
 	Utilize side-by-side visualizations to facilitate quick and easy comparisons.
 
 5. Expected Outcomes:
-   - Interactive dashboards providing clear understanding of the working Pattern of 	employees, allowing for more effective workforce planning.
-   - Enable HR and management to optimize schedules, based on peak times of 	employee presence, improving overall operational efficiency.
+   - Interactive dashboards providing clear understanding of the working Pattern of employees, allowing for more effective workforce planning.
+   - Enable HR and management to optimize schedules, based on peak times of employee presence, improving overall operational efficiency.
 
 6. Tools and Technologies:
    - Power BI for dashboard development.
@@ -45,6 +44,6 @@ Interactivity: Include interactive elements for comparative analysis, allowing u
    - Ensuring data accuracy and consistency across dashboards.
 
 8. Conclusion:
-   This project of HR Analysis designed to monitor and analyze key performance indicators, has the potential to revolutionize how the organization understands, manages, and plans around employee attendance, leave patterns, and overall productivity.
-   We hope this system will make things better by helping us make smarter decisions about schedules, manage leave more easily, and even take better care of everyone's health.
-   It's easy-to-use interface and customizable reports mean everyone can understand and use the system without any trouble.
+This project of HR Analysis designed to monitor and analyze key performance indicators, has the potential to revolutionize how the organization understands, manages, and plans around employee attendance, leave patterns, and overall productivity.
+We hope this system will make things better by helping us make smarter decisions about schedules, manage leave more easily, and even take better care of everyone's health.
+It's easy-to-use interface and customizable reports mean everyone can understand and use the system without any trouble.
