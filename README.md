@@ -44,6 +44,6 @@ Interactivity: Include interactive elements for comparative analysis, allowing u
    - Ensuring data accuracy and consistency across dashboards.
 
 8. Conclusion:
-This project of HR Analysis designed to monitor and analyze key performance indicators, has the potential to revolutionize how the organization understands, manages, and plans around employee attendance, leave patterns, and overall productivity.
+HR Analysis report designed to monitor and analyze key performance indicators, has the potential to revolutionize how the organization understands, manages, and plans around employee attendance, leave patterns, and overall productivity.
 We hope this system will make things better by helping us make smarter decisions about schedules, manage leave more easily, and even take better care of everyone's health.
 It's easy-to-use interface and customizable reports mean everyone can understand and use the system without any trouble.
