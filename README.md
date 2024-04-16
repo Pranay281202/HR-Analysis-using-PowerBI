@@ -1,4 +1,4 @@
-# Power BI Dashboarding project proposal
+# Power BI Dashboarding Project Proposal
 
 1. Executive Summary:
 This project aims to develop interactive and insightful dashboards using Power BI for HR Analysis, to enhance Working preference of employees for decision-making.
@@ -8,10 +8,9 @@ The dashboards will focus on key performance of emp working time, providing a vi
 Background: Evaluation is required to identify shortcomings and recommend improvements to the performance management process.
    
 Objective: Develop dashboards to monitor and analyze key performance indicators.
-with respect too "Key points" 
-Present, Paid Leave, Sick Leave, Half day PL, Half day SL, Work from home, Floting festival leave, Half Day Floting festival leave , Birthday Leave, Leave without pay , Half day Leave without pay, Bereavement Leave, Half Bereavement Leave, Half Work From Home, Weekly Off, Holiday Off.
+with respect too "Key points" Present, Paid Leave, Sick Leave, Half day PL, Half day SL, Work from home, Floting festival leave, Half Day Floting festival leave , Birthday Leave, Leave without pay , Half day Leave without pay, Bereavement Leave, Half Bereavement Leave, Half Work From Home, Weekly Off, Holiday Off.
 
-Scope:To get a specific time when the most of emp are present. Find Sick leave taken by emp to take pricotion and to make helpful decision.
+Scope: To get a specific time when the most of emp are present. Find Sick leave taken by emp to take pricotion and to make helpful decision.
 
 3. Data Sources:
 	A Real dataset of employee presence from a company called AtliQ.
